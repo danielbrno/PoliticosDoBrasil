@@ -16,5 +16,5 @@ Aplicativo móvel que acompanha a performance de cada político brasileiro, demo
 
 Participantes do projetos:
 
-- Daniel Cavalcante Aragão;
+- Daniel Cavalcante Aragão - daniel.br.no@gmail.com;
 - 
