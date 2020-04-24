@@ -12,9 +12,3 @@ Aplicativo móvel que acompanha a performance de cada político brasileiro, demo
 - Feedback do eleitorado;
 - Ações que está desenvolvendo;
 - Assiduidade de cada deputado/vereador
-
-
-Participantes do projetos:
-
-- Daniel Cavalcante Aragão - daniel.br.no@gmail.com;
-- 
